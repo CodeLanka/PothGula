@@ -1,17 +1,20 @@
-# poth_gula
 
-A new Flutter project.
+**Poth Gula** is an **Open Source book sharing platform** which allows a user to share books among the community. The platform mainly focuses on three main features as follows,
 
-## Getting Started
+ 1. Share Books 
+ 2. Maintain your profile as a book reader 
+ 3. Give recommendations and suggestions to the community
 
-This project is a starting point for a Flutter application.
+## Development
+Since **Poth Gula** is an open source platform. We thought of develop it using a fully open source technology stack. It is an application which uses Flutter (Google's latest mobile technology) for its main development stack. In addition to that Following are the key technologies which plays as the back born of Poth Gula mobile platform.
 
-A few resources to get you started if this is your first Flutter project:
+ - Flutter (Channel beta, v1.0.0)
+ - Firebase
+	 - Authentication 
+	 - Storage 
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## How to contribute
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# PothGula
+Please clone this project and check the listed issues which has **new features label or need a fix label** and leave a messege to claim the issue from one of our org mentors. 
+
+Once you done with your contributions please send us a pull request mentioning the issue that you solved or contributed.
