@@ -1,5 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e2383858d3254042906bc862d98dca00)](https://app.codacy.com/app/pamuditha/PothGula?utm_source=github.com&utm_medium=referral&utm_content=CodeLanka/PothGula&utm_campaign=Badge_Grade_Dashboard)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCodeLanka%2FPothGula.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCodeLanka%2FPothGula?ref=badge_shield)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **Poth Gula** is an **Open Source book sharing platform** which allows a user to share books among the community. The platform mainly focuses on three main features as follows,
 
